@@ -1,2 +1,1 @@
-# code-refactor
-coding bootcamp week 1 project
+# Code Refactor Starter Code
